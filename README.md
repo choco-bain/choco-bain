@@ -79,8 +79,8 @@ Je conçois et développe des **pipelines de données scalables** ainsi que des 
 
 ## 📈 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=choco-bain&show_icons=true&theme=dark&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choco-bain&layout=compact&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=choco-bain&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choco-bain&theme=github_dark)
 
 ---
 
