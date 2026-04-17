@@ -31,7 +31,7 @@ Je conçois et développe des **pipelines de données scalables** ainsi que des 
 
 ### 🗄️ Bases de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql)
+![DuckDB](https://img.shields.io/badge/DuckDB-333?style=for-the-badge&logo=duckdb)
 
 ### ⚙️ Dev & Outils
 ![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
