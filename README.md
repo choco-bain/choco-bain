@@ -20,8 +20,8 @@ Je conçois et développe des **pipelines de données scalables** ainsi que des 
 ### 💻 Langages
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
-![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=cplusplus)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
 
 ### ☁️ Data & Cloud
